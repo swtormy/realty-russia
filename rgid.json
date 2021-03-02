@@ -1,0 +1,484 @@
+{
+    "subtree": [
+        {
+            "id": 11158,
+            "rgid": "242563",
+            "name": "Курганская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10832,
+            "rgid": "475527",
+            "name": "Тульская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10776,
+            "rgid": "475526",
+            "name": "Рязанская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10841,
+            "rgid": "475525",
+            "name": "Ярославская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10658,
+            "rgid": "475524",
+            "name": "Владимирская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10693,
+            "rgid": "475523",
+            "name": "Калужская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10795,
+            "rgid": "475522",
+            "name": "Смоленская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11309,
+            "rgid": "344963",
+            "name": "Красноярский край",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10687,
+            "rgid": "475521",
+            "name": "Ивановская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11117,
+            "rgid": "426753",
+            "name": "Мордовия",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10699,
+            "rgid": "475520",
+            "name": "Костромская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11079,
+            "rgid": "426764",
+            "name": "Нижегородская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10645,
+            "rgid": "475532",
+            "name": "Белгородская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10672,
+            "rgid": "475531",
+            "name": "Воронежская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10650,
+            "rgid": "475530",
+            "name": "Брянская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10705,
+            "rgid": "475529",
+            "name": "Курская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10819,
+            "rgid": "475528",
+            "name": "Тверская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11398,
+            "rgid": "216720",
+            "name": "Камчатский край",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11012,
+            "rgid": "202903",
+            "name": "Ингушетия",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11024,
+            "rgid": "202902",
+            "name": "Чеченская Республика",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11021,
+            "rgid": "202901",
+            "name": "Северная Осетия — Алания",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11403,
+            "rgid": "216724",
+            "name": "Магаданская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11013,
+            "rgid": "202900",
+            "name": "Кабардино-Балкарская Республика",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11010,
+            "rgid": "202904",
+            "name": "Дагестан",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11069,
+            "rgid": "202908",
+            "name": "Ставропольский край",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11119,
+            "rgid": "426660",
+            "name": "Татарстан",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10251,
+            "rgid": "216737",
+            "name": "Чукотский автономный округ",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11235,
+            "rgid": "315296",
+            "name": "Алтайский край",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11077,
+            "rgid": "426656",
+            "name": "Марий Эл",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11156,
+            "rgid": "426657",
+            "name": "Чувашская Республика",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10946,
+            "rgid": "202916",
+            "name": "Астраханская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11282,
+            "rgid": "297512",
+            "name": "Кемеровская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11316,
+            "rgid": "255535",
+            "name": "Новосибирская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11162,
+            "rgid": "326698",
+            "name": "Свердловская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11443,
+            "rgid": "339114",
+            "name": "Саха",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11131,
+            "rgid": "426678",
+            "name": "Самарская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10950,
+            "rgid": "202930",
+            "name": "Волгоградская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11146,
+            "rgid": "426676",
+            "name": "Саратовская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10231,
+            "rgid": "259766",
+            "name": "Алтай",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11176,
+            "rgid": "250682",
+            "name": "Тюменская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 21949,
+            "rgid": "233530",
+            "name": "Забайкальский край",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 977,
+            "rgid": "681264",
+            "name": "Крым",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11095,
+            "rgid": "426685",
+            "name": "Пензенская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11409,
+            "rgid": "320568",
+            "name": "Приморский край",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11084,
+            "rgid": "426680",
+            "name": "Оренбургская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 959,
+            "rgid": "348613",
+            "name": "Севастополь",
+            "type": "CITY"
+        },
+        {
+            "id": 11225,
+            "rgid": "276551",
+            "name": "Челябинская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11148,
+            "rgid": "426690",
+            "name": "Удмуртская Республика",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11457,
+            "rgid": "262722",
+            "name": "Хабаровский край",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10174,
+            "rgid": "741965",
+            "name": "Санкт-Петербург и ЛО",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11330,
+            "rgid": "307139",
+            "name": "Бурятия",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 1,
+            "rgid": "741964",
+            "name": "Москва и МО",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11015,
+            "rgid": "202959",
+            "name": "Калмыкия",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11375,
+            "rgid": "291403",
+            "name": "Амурская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10897,
+            "rgid": "357973",
+            "name": "Мурманская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11318,
+            "rgid": "332756",
+            "name": "Омская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11070,
+            "rgid": "426967",
+            "name": "Кировская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10842,
+            "rgid": "357972",
+            "name": "Архангельская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11108,
+            "rgid": "426964",
+            "name": "Пермский край",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10904,
+            "rgid": "357975",
+            "name": "Новгородская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10853,
+            "rgid": "357974",
+            "name": "Вологодская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10857,
+            "rgid": "357969",
+            "name": "Калининградская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11266,
+            "rgid": "281170",
+            "name": "Иркутская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10939,
+            "rgid": "357971",
+            "name": "Коми",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11004,
+            "rgid": "353117",
+            "name": "Адыгея",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10995,
+            "rgid": "353118",
+            "name": "Краснодарский край",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10933,
+            "rgid": "357976",
+            "name": "Карелия",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11020,
+            "rgid": "202972",
+            "name": "Карачаево-Черкесская Республика",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10926,
+            "rgid": "357978",
+            "name": "Псковская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11111,
+            "rgid": "427111",
+            "name": "Башкортостан",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11353,
+            "rgid": "336098",
+            "name": "Томская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10243,
+            "rgid": "246888",
+            "name": "Еврейская автономная область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10233,
+            "rgid": "303979",
+            "name": "Тыва",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11340,
+            "rgid": "324468",
+            "name": "Хакасия",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11029,
+            "rgid": "211571",
+            "name": "Ростовская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11153,
+            "rgid": "426750",
+            "name": "Ульяновская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10802,
+            "rgid": "475519",
+            "name": "Тамбовская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10772,
+            "rgid": "475518",
+            "name": "Орловская область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 10712,
+            "rgid": "475517",
+            "name": "Липецкая область",
+            "type": "SUBJECT_FEDERATION"
+        },
+        {
+            "id": 11450,
+            "rgid": "272379",
+            "name": "Сахалинская область",
+            "type": "SUBJECT_FEDERATION"
+        }
+    ]
+}
